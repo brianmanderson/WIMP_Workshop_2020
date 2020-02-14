@@ -1,0 +1,15 @@
+[submodule "Workshop_Modules"]
+	path = Workshop_Modules
+	url = https://github.com/brianmanderson/Workshop_Modules.git
+[submodule "Deep_Learning/Base_Deeplearning_Code"]
+	path = Deep_Learning/Base_Deeplearning_Code
+	url = https://github.com/brianmanderson/Base_Deeplearning_Code.git
+[submodule "Deep_Learning/Easy_VGG16_UNet"]
+	path = Deep_Learning/Easy_VGG16_UNet
+	url = https://github.com/brianmanderson/Easy_VGG16_UNet.git
+[submodule "Pre_Processing/Make_Single_Images"]
+	path = Pre_Processing/Make_Single_Images
+	url = https://github.com/brianmanderson/Make_Single_Images.git
+[submodule "Pre_Processing/Dicom_RT_and_Images_to_Mask"]
+	path = Pre_Processing/Dicom_RT_and_Images_to_Mask
+	url = https://github.com/brianmanderson/Dicom_RT_and_Images_to_Mask.git

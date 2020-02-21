@@ -1,6 +1,7 @@
 __author__ = 'Brian M Anderson'
 # Created on 2/17/2020
 from Workshop_Modules.Merge_Notebooks import merge_notebooks_function, os
+from tensorflow.python.keras.callbacks import ModelCheckpoint
 
 path_to_notebooks = os.path.join('.','Workshop_Modules')
 notebook_paths = [os.path.join('.','Download_Data.ipynb')] + [os.path.join('.\\Workshop_Modules',i) for i in ['DeepBox.ipynb','Data_Curation.ipynb','Liver_Model.ipynb']]
